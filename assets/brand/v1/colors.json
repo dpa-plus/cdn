@@ -1,0 +1,23 @@
+{
+  "brand": {
+    "primary": {
+      "hex": "#E26F27",
+      "rgb": [226, 111, 39],
+      "name": "brand-orange"
+    }
+  },
+  "backgrounds": {
+    "dark-overlay": {
+      "hex": "#070D20",
+      "rgb": [7, 13, 32]
+    },
+    "dark": {
+      "hex": "#141414",
+      "rgb": [20, 20, 20]
+    },
+    "light": {
+      "hex": "#FFFFFF",
+      "rgb": [255, 255, 255]
+    }
+  }
+}
